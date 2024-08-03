@@ -11,11 +11,11 @@ Programming Language(s): iunno 🚶‍♂️
 ### Feature II: Navigation
 - [ ] Design Must be easy to use
 
-### Constraint I: Battery
-- [ ] Battery Life of 1 year (we are jumping the gun here)[^1]
-- [ ] Must show indication of low battery when battery is below 10%
+### ~~Constraint I: Battery~~[^1]
+- [ ] ~~Battery Life of 1 year (we are jumping the gun here)~~
+- [ ] ~~Must show indication of low battery when battery is below 10%~~
 
-[^1]: This means that we have to have battery consumption to a minimum and enough battery storage, while having as much space as possible for other things
+[^1]: This is impossible.
 
 ### Constraint II: Electronics
 -  Must use an ESP8266 (its what i have 😭)
